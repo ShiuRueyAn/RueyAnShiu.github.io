@@ -4,27 +4,27 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/academic-site/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Publications by category in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academic-site/publications/";
           },
         },{id: "nav-awards",
-          title: "awards",
+          title: "Awards",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academic-site/awards/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -52,14 +52,20 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-attending-slmath-summer-graduate-school-on-statistical-optimal-transport-at-slmath-berkeley-jun-9-jun-20",
-          title: 'Attending SLMath Summer Graduate School on Statistical Optimal Transport at SLMath (Berkeley), Jun...',
+      },{id: "news-new-preprint-semi-autonomous-mathematics-discovery-with-gemini-a-case-study-on-the-erdős-problems-is-now-on-arxiv",
+          title: 'New preprint: “Semi-Autonomous Mathematics Discovery with Gemini: A Case Study on the Erdős...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-synchronization-of-relu-dense-networks-is-accepted-at-chaos-solitons-and-fractals-2026",
-          title: 'Our paper on synchronization of ReLU dense networks is accepted at Chaos, Solitons...',
+          section: "News",},{id: "news-awarded-the-carnegie-institute-of-technology-dean-s-fellowship",
+          title: 'Awarded the Carnegie Institute of Technology Dean’s Fellowship.',
           description: "",
-          section: "News",},{id: "news-awarded-the-international-federation-of-operational-research-societies-ifors-travelling-fellowship",
-          title: 'Awarded the International Federation of Operational Research Societies (IFORS) Travelling Fellowship.',
+          section: "News",},{id: "news-new-preprint-coordination-games-on-multiplex-networks-consensus-convergence-and-stability-of-opinion-dynamics-is-now-on-arxiv",
+          title: 'New preprint: “Coordination games on multiplex networks: Consensus, convergence, and stability of opinion...',
+          description: "",
+          section: "News",},{id: "news-starting-a-globalink-research-internship-at-the-university-of-waterloo-on-the-mathematical-modelling-and-control-of-wildfire-with-prof-roberto-guglielmi",
+          title: 'Starting a Globalink Research Internship at the University of Waterloo on the mathematical...',
+          description: "",
+          section: "News",},{id: "news-i-am-joining-carnegie-mellon-university-as-a-phd-student-in-electrical-and-computer-engineering",
+          title: 'I am joining Carnegie Mellon University as a PhD student in Electrical and...',
           description: "",
           section: "News",},{
         id: 'social-cv',
@@ -73,7 +79,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%62%31%30%32%30%31%30%33%34@%6E%74%75.%65%64%75.%74%77", "_blank");
+          window.open("mailto:%72%73%68%69%75@%61%6E%64%72%65%77.%63%6D%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -83,11 +89,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=5Q21h6AAAAAJ", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/academic-site/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/ruey-an-shiu", "_blank");
         },
       },{
       id: 'light-theme',
