@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-09 09:00:00-0800
+date: 2026-03-01 09:00:00-0500
 inline: true
 related_posts: false
 ---
 
-Attending **SLMath Summer Graduate School on Statistical Optimal Transport** at SLMath (Berkeley), Jun 9 – Jun 20.
+New preprint: **"Coordination games on multiplex networks: Consensus, convergence, and stability of opinion dynamics"** is now on arXiv.

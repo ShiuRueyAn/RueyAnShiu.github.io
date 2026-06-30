@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-01 09:00:00-0800
+date: 2026-09-01 09:00:00-0500
 inline: true
 related_posts: false
 ---
 
-Awarded the **International Federation of Operational Research Societies (IFORS) Travelling Fellowship**.
+I am joining **Carnegie Mellon University** as a PhD student in Electrical and Computer Engineering.

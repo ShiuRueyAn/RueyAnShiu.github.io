@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-01 09:00:00-0800
+date: 2026-06-01 09:00:00-0500
 inline: true
 related_posts: false
 ---
 
-Our paper on **synchronization of ReLU dense networks** is accepted at *Chaos, Solitons and Fractals* (2026).
+Starting a **Globalink Research Internship** at the **University of Waterloo** on the mathematical modelling and control of wildfire, with Prof. Roberto Guglielmi.
