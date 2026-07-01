@@ -52,13 +52,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-new-preprint-semi-autonomous-mathematics-discovery-with-gemini-a-case-study-on-the-erdős-problems-is-now-on-arxiv",
-          title: 'New preprint: “Semi-Autonomous Mathematics Discovery with Gemini: A Case Study on the Erdős...',
-          description: "",
-          section: "News",},{id: "news-awarded-the-carnegie-institute-of-technology-dean-s-fellowship",
-          title: 'Awarded the Carnegie Institute of Technology Dean’s Fellowship.',
-          description: "",
-          section: "News",},{id: "news-new-preprint-coordination-games-on-multiplex-networks-consensus-convergence-and-stability-of-opinion-dynamics-is-now-on-arxiv",
+      },{id: "news-new-preprint-coordination-games-on-multiplex-networks-consensus-convergence-and-stability-of-opinion-dynamics-is-now-on-arxiv",
           title: 'New preprint: “Coordination games on multiplex networks: Consensus, convergence, and stability of opinion...',
           description: "",
           section: "News",},{id: "news-starting-a-globalink-research-internship-at-the-university-of-waterloo-on-the-mathematical-modelling-and-control-of-wildfire-with-prof-roberto-guglielmi",
