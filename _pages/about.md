@@ -27,9 +27,9 @@ latest_posts:
   limit: 3
 ---
 
-I am a first-year PhD student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/). Prior to joining CMU, I obtained my Bachelor's degree in Mathematics and Economics at National Taiwan University (台大).
+I am a first-year PhD student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/). Prior to joining CMU, I obtained my Bachelor's degree in Mathematics and Economics at [National Taiwan University](https://www.ntu.edu.tw/english/).
 
-My research interests lie in control theory (控制理論) and dynamical systems (動態系統). My CV can be found [here]({{ '/assets/pdf/CV.pdf' | relative_url }}).
+My research interests lie in control theory and dynamical systems. My CV can be found [here]({{ '/assets/pdf/CV.pdf' | relative_url }}).
 
 ## Education
 
