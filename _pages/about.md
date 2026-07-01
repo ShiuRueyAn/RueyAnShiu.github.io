@@ -34,6 +34,5 @@ My research interests lie in control theory and dynamical systems. My CV can be 
 ## Education
 
 - **Ph.D. in Electrical and Computer Engineering**, Carnegie Mellon University, Sep. 2026 – (Expected) Jun. 2031
-- **B.S. in Mathematics, B.A. in Economics (Honor), Minor in Computer Science**, National Taiwan University, Sep. 2021 – Jun. 2026
+- **B.S. in Mathematics, B.A. in Economics (Honor)**, National Taiwan University, Sep. 2021 – Jun. 2026
 - **University of California Education Abroad Program**, University of California San Diego, Fall 2024
-- **Statistical Optimal Transport (SLMath)**, SLMath Summer Graduate School, Jun 9 – Jun 20, 2025

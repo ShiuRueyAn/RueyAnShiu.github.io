@@ -14,6 +14,9 @@ nav_order: 2
 <h2 class="year">Journal</h2>
 {% bibliography -q @*[type=journal]* %}
 
+<h2 class="year">Preprint</h2>
+{% bibliography -q @*[type=preprint]* %}
+
 <h2 class="year">Conference</h2>
 {% bibliography -q @*[type=conference]* %}
 

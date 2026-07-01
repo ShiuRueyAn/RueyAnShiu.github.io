@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+- Carnegie Institute of Technology Dean's Fellowship, 2026
 - International Federation of Operational Research Societies (IFORS) Travelling Fellowship, 2025
 - NSTC College Student Research Creativity Award, 2025
 - National Taiwan University Bachelor's Thesis Award, 2025
