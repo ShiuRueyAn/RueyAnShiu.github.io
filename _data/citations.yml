@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-07'
 papers:
   5Q21h6AAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: Shaping network structures in evolutionary games for stronger cooperation
     year: '2025'
   5Q21h6AAAAAJ:IjCSPb-OGe4C:
-    citations: 30
-    title: 'Semi-Autonomous Mathematics Discovery with Gemini: A Case Study on the Erd\H {o} s Problems'
+    citations: 31
+    title: 'Semi-autonomous mathematics discovery with gemini: A case study on the erd\h {o} s problems'
     year: '2026'
   5Q21h6AAAAAJ:UeHWp8X0CEIC:
-    citations: 2
+    citations: 1
     title: 'Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics'
     year: '2025'
   5Q21h6AAAAAJ:qjMakFHDy7sC:
